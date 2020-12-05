@@ -37,7 +37,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Learn Web Coding > Google reCAPTHA V3 integration in PHP</title>
+    <title>Google reCAPTHA V3 integration in PHP</title>
     <link rel="stylesheet" type="text/css" href="../library/css/bootstrap.min.css"/>
     <style type="text/css">
     	.card {
